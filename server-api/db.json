@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "56764604-a392-46c0-874d-090b892145b0",
+      "name": "test",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "80f3d60e-2fdb-4be1-bc83-8619884c83fa",
+      "name": "Bonish",
+      "email": "bo@gmail.com"
+    },
+    {
+      "id": "950fdde9-fcbc-42ed-871f-29741ff8b72c",
+      "name": "tanuja 123",
+      "email": "tp@tinde.com"
+    },
+    {
+      "id": "f5087e90-335b-43be-8bfb-2d145616dfa9",
+      "name": "Bonish",
+      "email": "bo@gmail.com"
+    }
+  ]
+}
